@@ -5,11 +5,16 @@
   "main": "pq2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node pq2.js"  },
-  "keywords": ["node","build"],
+    "start": "node pq2.js"
+  },
+  "keywords": [
+    "node",
+    "build"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
