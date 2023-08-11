@@ -2,10 +2,10 @@
   "name": "emps",
   "version": "1.0.0",
   "description": "",
-  "main": "Task-7 pq2.js",
+  "main": "pq2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Task-7 pq2.js"  },
+    "start": "node pq2.js"  },
   "keywords": ["node","build"],
   "author": "",
   "license": "ISC",
